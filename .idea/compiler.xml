@@ -14,6 +14,7 @@
         <module name="eureka-server" />
         <module name="eureka-zuul-client" />
         <module name="springcloud" />
+        <module name="zipkin-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,7 +25,9 @@
       <module name="eureka-ribbon-client" target="1.6" />
       <module name="eureka-server" target="1.6" />
       <module name="eureka-zuul-client" target="1.6" />
+      <module name="springboot-security" target="1.6" />
       <module name="springcloud" target="1.6" />
+      <module name="zipkin-server" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
