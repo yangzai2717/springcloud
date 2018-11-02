@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/eureka-monitor-client/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-zuul-client/pom.xml" />
         <option value="$PROJECT_DIR$/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/auth-service/pom.xml" />
       </list>
     </option>
   </component>
